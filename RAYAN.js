@@ -245,43 +245,43 @@ RAYAN20.on("ready", () => {
 });
 //===============RAYAN============//
 RAYAN.on("ready", () => {
-  var join = RAYAN.channels.get(""); /// id voice
+  var join = RAYAN.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 });
 RAYAN2.on("ready", () => {
-  var join = RAYAN2.channels.get(""); /// id voice
+  var join = RAYAN2.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 });
 RAYAN3.on("ready", () => {
-  var join = RAYAN3.channels.get(""); /// id voice
+  var join = RAYAN3.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 });
 RAYAN4.on("ready", () => {
-  var join = RAYAN4.channels.get("");
+  var join = RAYAN4.channels.get("1140987167200526336");
   if (join) join.join();
 });
 RAYAN5.on("ready", () => {
-  var join = RAYAN5.channels.get("");
+  var join = RAYAN5.channels.get("1140987167200526336");
   if (join) join.join();
 });
 RAYAN6.on("ready", () => {
-  var join = RAYAN6.channels.get("");
+  var join = RAYAN6.channels.get("1140987167200526336");
   if (join) join.join();
 });
 RAYAN7.on("ready", () => {
-  var join = RAYAN7.channels.get("");
+  var join = RAYAN7.channels.get("1140987167200526336");
   if (join) join.join();
 });
 RAYAN8.on("ready", () => {
-  var join = RAYAN8.channels.get("");
+  var join = RAYAN8.channels.get("1140987167200526336");
   if (join) join.join();
 });
 RAYAN9.on("ready", () => {
-  var join = RAYAN9.channels.get("");
+  var join = RAYAN9.channels.get("1140987167200526336");
   if (join) join.join();
 });
 RAYAN10.on("ready", () => {
-  var join = RAYAN10.channels.get("");
+  var join = RAYAN10.channels.get("1140987167200526336");
   if (join) join.join();
 });
 RAYAN11.on("ready", () => {
@@ -325,8 +325,8 @@ RAYAN20.on("ready", () => {
   if (join) join.join();
 }); 
 //==============RAYAN============//
-RAYAN.login("");
-RAYAN2.login("");
+RAYAN.login("MTEwNTE4NDA1OTkwMDA0MzM3NA.Glt_0g.tupsmh1rxJZ1xRS1edcNVMj9xYSVAWZ90ypB8Q");
+RAYAN2.login("MTEzMzc4MTI3MzUxNzc1NjQ4Ng.G1Rxtb.ZOvFPbbM1Y2i2PPCD5jr2NkPGuykX8enKnwZ54");
 RAYAN3.login("");
 RAYAN4.login("");
 RAYAN5.login("");
