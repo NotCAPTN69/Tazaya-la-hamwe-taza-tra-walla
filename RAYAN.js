@@ -285,43 +285,43 @@ RAYAN10.on("ready", () => {
   if (join) join.join();
 });
 RAYAN11.on("ready", () => {
-  var join = RAYAN11.channels.get(""); /// id voice
+  var join = RAYAN11.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN12.on("ready", () => {
-  var join = RAYAN12.channels.get(""); /// id voice
+  var join = RAYAN12.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN13.on("ready", () => {
-  var join = RAYAN13.channels.get(""); /// id voice
+  var join = RAYAN13.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN14.on("ready", () => {
-  var join = RAYAN14.channels.get(""); /// id voice
+  var join = RAYAN14.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN15.on("ready", () => {
-  var join = RAYAN15.channels.get(""); /// id voice
+  var join = RAYAN15.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN16.on("ready", () => {
-  var join = RAYAN16.channels.get(""); /// id voice
+  var join = RAYAN16.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN17.on("ready", () => {
-  var join = RAYAN17.channels.get(""); /// id voice
+  var join = RAYAN17.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN18.on("ready", () => {
-  var join = RAYAN18.channels.get(""); /// id voice
+  var join = RAYAN18.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 RAYAN19.on("ready", () => {
-  var join = RAYAN19.channels.get(""); /// id voice
+  var join = RAYAN19.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 });
 RAYAN20.on("ready", () => {
-  var join = RAYAN20.channels.get(""); /// id voice
+  var join = RAYAN20.channels.get("1140987167200526336"); /// id voice
   if (join) join.join();
 }); 
 //==============RAYAN============//
@@ -342,7 +342,7 @@ RAYAN14.login("MTE0OTEwNzcxNTg1MTk1NjM2NQ.GYG07D.f9ypzyiM8wYYDuVZeYP4xu27FYxY3C3
 RAYAN15.login("MTE0OTEwODU3ODk1NTgyMTA3Ng.GOGixf.63NtA-jSfb_Ti5wUTstlUAUoaxY5pumctM4dAY");
 RAYAN16.login("MTE0OTEwOTU1MTQxMzYwODUyOQ.GwhGfp.-rEpByUE5K197jPc_BVzLGrABx1s8ejsIzM788");
 RAYAN17.login("MTE0OTExMDEyMzQyNDQwMzUxNg.Gt-BTU.RhAE_OaDrI0_lsK7MXp_Hj6c8qgC9cWa39BlaQ");
-RAYAN18.login("");
+RAYAN18.login("MTE0OTEwODU3ODk1NTgyMTA3Ng.G-QYOM.Z9AKIAOQjlJJ5uokvRCoodB3PFicGgTbpxc4qw");
 RAYAN19.login("");
 RAYAN20.login("");
 //===============RAYAN============//
