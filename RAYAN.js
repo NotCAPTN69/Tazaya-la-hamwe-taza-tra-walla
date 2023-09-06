@@ -237,7 +237,7 @@ RAYAN19.on("ready", () => {
 });
 RAYAN20.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`YT DEV RAYAN & `];
+  let statuses = [`YT DEV RAYAN  `];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN20.user.setActivity(STREAMING, {
@@ -391,9 +391,9 @@ RAYAN15.login("MTE0OTEwODU3ODk1NTgyMTA3Ng.GOGixf.63NtA-jSfb_Ti5wUTstlUAUoaxY5pum
 RAYAN16.login("MTE0OTEwOTU1MTQxMzYwODUyOQ.GwhGfp.-rEpByUE5K197jPc_BVzLGrABx1s8ejsIzM788");
 RAYAN17.login("MTE0OTExMDEyMzQyNDQwMzUxNg.Gt-BTU.RhAE_OaDrI0_lsK7MXp_Hj6c8qgC9cWa39BlaQ");
 RAYAN18.login("MTE0OTEwODU3ODk1NTgyMTA3Ng.G-QYOM.Z9AKIAOQjlJJ5uokvRCoodB3PFicGgTbpxc4qw");
-RAYAN19.login("");
-RAYAN20.login("");
-RAYAN21.login("");
+RAYAN19.login("MTE0OTExMDU4ODMwODQ2NzcxMg.G13Loe.k41Z2VOACCzRxQKUP42YjnBykThq1P9sSXuUr0");
+RAYAN20.login("MTE0OTEyODU3MTQwMzY0MDk2Mg.GtuTV7.8odHbHkz66y6FahxfEYM20jORBln9iRODTaGn8");
+RAYAN21.login("MTE0OTEzMDEzOTk0MzMyNTcwNg.Gi8JI6.BOr-Y7GVpQqehGVWgNMMrfpoVOnVmAm3ogbV5o");
 RAYAN22.login(""); 
 RAYAN23.login("");
 
