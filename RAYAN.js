@@ -1,4 +1,5 @@
 //===============RAYAN============//
+
 const Discord = require("discord.js");
 const RAYAN = new Discord.Client();
 const RAYAN2 = new Discord.Client();
@@ -30,7 +31,9 @@ const RAYAN27 = new Discord.Client();
 const RAYAN28 = new Discord.Client();
 const RAYAN29 = new Discord.Client();
 const RAYAN30 = new Discord.Client();
+
 //===============RAYAN============//
+
 RAYAN.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -42,6 +45,7 @@ RAYAN.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN2.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -53,6 +57,7 @@ RAYAN2.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN3.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -64,6 +69,7 @@ RAYAN3.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN4.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -75,6 +81,7 @@ RAYAN4.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN5.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -86,6 +93,7 @@ RAYAN5.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN6.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -97,6 +105,7 @@ RAYAN6.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN7.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -108,6 +117,7 @@ RAYAN7.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN8.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -119,6 +129,7 @@ RAYAN8.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN9.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -130,6 +141,7 @@ RAYAN9.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN10.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -141,6 +153,7 @@ RAYAN10.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN11.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -152,6 +165,7 @@ RAYAN11.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN12.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -163,6 +177,7 @@ RAYAN12.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN13.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -174,6 +189,7 @@ RAYAN13.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN14.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -185,6 +201,7 @@ RAYAN14.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN15.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -196,6 +213,7 @@ RAYAN15.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN16.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -207,6 +225,7 @@ RAYAN16.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN17.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -218,6 +237,7 @@ RAYAN17.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN18.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -229,6 +249,7 @@ RAYAN18.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN19.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN & `];
@@ -240,6 +261,7 @@ RAYAN19.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN20.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN  `];
@@ -251,6 +273,7 @@ RAYAN20.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN21.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`DeV RaYaN`];
@@ -262,6 +285,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN22.on("ready", () => {
   console.log('Online In Servers');
   let statuses = ['DeV RaYaN'];
@@ -273,6 +297,7 @@ RAYAN22.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN23.on("ready", () => {
   console.log('Online In Servers');
   let statuses = ['DeV RaYaN'];
@@ -284,6 +309,7 @@ RAYAN23.on("ready", () => {
     });
   }, 2000);
 });
+
 RAYAN21.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`DeV RaYaN`];
@@ -295,6 +321,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN22.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -306,6 +333,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN23.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYaN &`];
@@ -317,6 +345,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN24.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -328,6 +357,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN25.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYN &`];
@@ -339,6 +369,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN26.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -350,6 +381,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN27.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -361,6 +393,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN28.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -372,6 +405,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN29.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -383,6 +417,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
   RAYAN30.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -394,6 +429,7 @@ RAYAN21.on("ready", () => {
     });
   }, 2000);
 });
+
 //==============RAYAN============//
 RAYAN.login("MTEwNTE4NDA1OTkwMDA0MzM3NA.Glt_0g.tupsmh1rxJZ1xRS1edcNVMj9xYSVAWZ90ypB8Q");
 RAYAN2.login("MTEzMzc4MTI3MzUxNzc1NjQ4Ng.G1Rxtb.ZOvFPbbM1Y2i2PPCD5jr2NkPGuykX8enKnwZ54");
@@ -425,4 +461,5 @@ RAYAN27.login("");
 RAYAN28.login("");
 RAYAN29.login("");
 RAYAN30.login("");
+
 //===============RAYAN============//
