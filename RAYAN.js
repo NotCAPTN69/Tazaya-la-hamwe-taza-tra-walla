@@ -95,9 +95,7 @@ RAYAN6.on("ready", () => {
       type: "PLAYING",
       url: "https://www.twitch.tv/faith",
     });
-
   }, 2000);
-
 });
 RAYAN7.on("ready", () => {
   console.log(`Online In Servers`);
@@ -296,6 +294,7 @@ RAYAN21.on("ready", () => {
       url: "https://www.twitch.tv/faith",
     });
   }, 2000);
+});
   RAYAN22.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`YT DEV RAYAN &`];
@@ -309,7 +308,7 @@ RAYAN21.on("ready", () => {
 });
   RAYAN23.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`YT DEV RAYAN &`];
+  let statuses = [`YT DEV RAYaN &`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN23.user.setActivity(STREAMING, {
@@ -331,7 +330,7 @@ RAYAN21.on("ready", () => {
 });
   RAYAN25.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`YT DEV RAYAN &`];
+  let statuses = [`YT DEV RAYN &`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN25.user.setActivity(STREAMING, {
