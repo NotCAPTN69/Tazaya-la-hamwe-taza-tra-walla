@@ -23,6 +23,13 @@ const RAYAN20 = new Discord.Client();
 const RAYAN21 = new Discord.Client();
 const RAYAN22 = new Discord.Client();
 const RAYAN23 = new Discord.Client();
+const RAYAN24 = new Discord.Client();
+const RAYAN25 = new Discord.Client();
+const RAYAN26 = new Discord.Client();
+const RAYAN27 = new Discord.Client();
+const RAYAN28 = new Discord.Client();
+const RAYAN29 = new Discord.Client();
+const RAYAN30 = new Discord.Client();
 //===============RAYAN============//
 RAYAN.on("ready", () => {
   console.log(`Online In Servers`);
@@ -279,6 +286,17 @@ RAYAN23.on("ready", () => {
     });
   }, 2000);
 });
+RAYAN21.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`DeV RaYaN`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN21.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+
 //===============RAYAN============//
 RAYAN.on("ready", () => {
   var join = RAYAN.channels.get("1140987167200526336"); /// id voice
@@ -305,7 +323,7 @@ RAYAN6.on("ready", () => {
   if (join) join.join();
 });
 RAYAN7.on("ready", () => {
-  var join = RAYAN7.channels.get("1140987167200526336");
+  var join = RAYAN7.channels.get("");
   if (join) join.join();
 });
 RAYAN8.on("ready", () => {
