@@ -420,7 +420,7 @@ RAYAN21.on("ready", () => {
 
   RAYAN30.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`YT DEV RAYAN &`];
+  let statuses = [`YT DEV RAyAN &`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN30.user.setActivity(STREAMING, {
